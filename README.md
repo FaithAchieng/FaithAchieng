@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faithachieng&label=Profile%20views&color=0e75b6&style=flat" alt="faithachieng" /> </p>
 
+<p align="center">
+    <a href="#">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaithAchieng&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
 
 
 
@@ -10,6 +16,7 @@
 
 - 📫 How to reach me **faithachienglexus@gmail.com**
 
+![Handshake](https://github.com/CHEGEBB/CHEGEBB/assets/123733116/b19b149e-e0b0-4bbe-9b80-1209dd8e2706)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -25,11 +32,23 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaithAchieng&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+
 ![](https://github-profile-trophy.vercel.app/?username=FaithAchieng&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<div>
+  <a href="#">
+    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
+</div>
 
-![WhatsApp Image 2024-11-04 at 20 55 43_227d41e9](https://github.com/user-attachments/assets/3400c237-d597-4aec-8d5a-85de434ee8f7)
+<br />
 
+
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+<br><br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
