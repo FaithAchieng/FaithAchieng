@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faithachieng" alt="faithachieng" /></a> </p>
 
-- 🌱 I’m currently learning **React , Javascrit**
+- 🌱 I’m currently learning **React , Javascript**
 
 - 📫 How to reach me **faithachienglexus@gmail.com**
 
