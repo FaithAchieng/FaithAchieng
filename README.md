@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faith Achieng</h1>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/getintorj/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Faith%20Achieng%20✨;Software%20Engineer%20💻;Frontend%20Developer%20🌐;Digital%20Artist%20🎨;React%20Developer%20⚛️;Women%20in%20Tech%20Advocate%20👩🏽‍💻;Champion%20for%20Women%20&%20Girls%20in%20Tech%20👩🏽‍🎓;Cybersecurity%20Enthusiast%20🔒;CTF%20Participant%20(PicoCTF)%20🚩;Computer%20Science%20Student%20📚&font=Fira%20Code&center=true&width=600&height=50&color=22d3ee&vCenter=true&pause=1000&size=26" />
   </a>
-</p>
+</p> -->
 
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <div>
