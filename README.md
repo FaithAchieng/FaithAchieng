@@ -25,9 +25,9 @@
 
 
 
-- 🌱 I’m currently learning **React , Javascript**
+- 🌱 I’m currently learning **React , Javascript,Next JS, TypeScript**
 
-- 📫 How to reach me **faithachienglexus@gmail.com**
+
 
 ![Handshake](https://github.com/CHEGEBB/CHEGEBB/assets/123733116/b19b149e-e0b0-4bbe-9b80-1209dd8e2706)
 <h3 align="left">Connect with me:</h3>
