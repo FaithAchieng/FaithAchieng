@@ -25,7 +25,7 @@
 
 
 
-- 🌱 I’m currently learning **React , Javascript,Next JS, TypeScript**
+- 🌱 I’m currently learning **PYTHON,DJANGO, COBOL**
 
 
 
